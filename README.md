@@ -1,6 +1,6 @@
 # Recursive Fibonacci
 
-This repository contains implementations of the Fibonacci sequence using recursion in both Java and Python.
+This repository contains implementations of the Fibonacci sequence using recursion in Java, JavaScript and Python.
 
 ## Java Implementation
 
@@ -16,6 +16,16 @@ java Recursive_Fibonacci
 ```
 
 This will print the first 10 Fibonacci numbers.
+
+## JavaScript Implementation
+The JavaScript implementation is provided in the file recursive_fibonacci.js. It includes a function fibonacci to compute Fibonacci numbers recursively.
+
+### Usage
+To run the JavaScript implementation, execute the recursive_fibonacci.js file in a Node.js environment:
+
+```sh
+node recursive_fibonacci.js
+```
 
 ## Python Implementation
 The Python implementation is provided in the file recursive_fibonacci.py. It includes a function fibonacci to compute Fibonacci numbers recursively.
